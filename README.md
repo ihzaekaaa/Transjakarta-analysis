@@ -12,11 +12,11 @@ https://www.kaggle.com/datasets/dikisahkan/transjakarta-transportation-transacti
 
 ## 📊 Key Analysis & Insights
 
-- Gender distribution of passengers
-- Busiest and least busy corridors
-- Most frequented tap-in and tap-out stops
-- Payment method usage
-- Passenger frequency by hour and day
+- Female users outnumber male users, likely because men tend to prefer private transport.
+- Corridor 1T (Cibubur – Balai Kota) had the highest usage, while Corridor M5 (Kampung Melayu – Ancol) had the lowest due to night-only operations.
+- Penjaringan Bus Stop saw the most tap-ins, and BKN Bus Stop (Cawang Cililitan in 2025) saw the most tap-outs, indicating key departure and destination points.
+- Bank DKI Electronic Money Card (KUE) was the dominant payment method.
+- Peak usage occurred at 6 AM and 5 PM on weekdays.
 
 ---
 
