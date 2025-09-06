@@ -30,7 +30,7 @@ https://www.kaggle.com/datasets/dikisahkan/transjakarta-transportation-transacti
 ---
 
 ## 📈 Dashboard
-Interactive dashboard link: *https://lookerstudio.google.com/reporting/10ce3b06-979e-4b40-813e-6b33936abdec*
+Interactive dashboard link: *https://lookerstudio.google.com/s/sG85iB4Yz2o*
 
 ---
 
