@@ -25,13 +25,14 @@ https://www.kaggle.com/datasets/dikisahkan/transjakarta-transportation-transacti
 - Google Colab (Python)
 - Pandas
 - Matplotlib
+- Looker Studio (Dashboard)
 
 ---
 
 ## 📁 File
 
 - `transjakarta.py` → Main Python script for data cleaning, transformation, analysis, and visualization
-
+- Dashboard Looker Studio = *https://lookerstudio.google.com/reporting/10ce3b06-979e-4b40-813e-6b33936abdec*
 ---
 
 ## 📝 Notes
