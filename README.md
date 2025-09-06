@@ -29,10 +29,15 @@ https://www.kaggle.com/datasets/dikisahkan/transjakarta-transportation-transacti
 
 ---
 
+## 📈 Dashboard
+Interactive dashboard link: *https://lookerstudio.google.com/reporting/10ce3b06-979e-4b40-813e-6b33936abdec*
+
+---
+
 ## 📁 File
 
 - `transjakarta.py` → Main Python script for data cleaning, transformation, analysis, and visualization
-- Dashboard Looker Studio = *https://lookerstudio.google.com/reporting/10ce3b06-979e-4b40-813e-6b33936abdec*
+
 ---
 
 ## 📝 Notes
