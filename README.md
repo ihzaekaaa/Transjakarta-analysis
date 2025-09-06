@@ -38,9 +38,3 @@ https://www.kaggle.com/datasets/dikisahkan/transjakarta-transportation-transacti
 
 - This is a synthetic dataset, used only for educational and portfolio purposes.
 - All visualizations and insights are based on assumed, randomly generated data.
-
----
-
-## 📌 Status
-
-✅ Completed – Suitable for inclusion in data analyst portfolio.
